@@ -21,7 +21,7 @@
 
 🤖 I work as an `AI & Data Science enthusiast` with a strong focus on `Data Analysis`, `Machine Learning`, `Deep Learning`,`Natural Language Processing` and `Django framework`
 
-🌍 I build `AI-powered solutions` and `full-stack applications`, `combining Python`, `Django`, `.Net Core`, `SQL Server` and modern ML frameworks to solve real-world problem.
+🌍 I build `AI-powered solutions` and `full-stack applications`, `combining Python`, `Django`, `.Net Core`, `SQL Server` and `modern ML frameworks` to solve real-world problem.
 
 💼 Successfully completed multiple `academic and freelance projects`, applying tools like `Hugging Face`, `Scikit-learn`, `Power Bi`.
 
