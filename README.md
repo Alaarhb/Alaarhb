@@ -2,7 +2,7 @@
    <img width=100% src=https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=true />
 </div>
 
-<h1 align="center">Hi! 👋 I'm Alaa Rehab</h1>
+<h1 align="center">Hi! 👋 I'm Alaa Mohammed</h1>
 
 <h3 align="center">AI & Data scientist | Machine Learning Engineer | CPer</h3>
 
