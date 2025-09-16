@@ -17,7 +17,7 @@
 
 <be>
 
-🎓 I hold a `Bachelor's Degree` in [`Computer Science` from Tanta University](https://www.tanta.edu.eg).
+🎓 I am a  [`Computer Science`at Tanta University](https://www.tanta.edu.eg).
 
 🤖 I work as an `AI & Data Science enthusiast` with a strong focus on `Data Analysis`, `Machine Learning`, `Deep Learning`,`Natural Language Processing` and `Django framework`
 
