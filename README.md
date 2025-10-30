@@ -31,7 +31,7 @@
 
 🧠 Constantly learning and experimenting with new `AI models`, `frameworks`, and `tech stacks`.
 
-📬 Open to `job opportunities`, `freelance gigs`, and `exciting collaborations` — [here's my Resume](https://drive.google.com/file/d/18IfoJen9NzfEp9eIZ81lyrUqhz8xex1r/view?usp=drive_link).
+📬 Open to `job opportunities`, `freelance gigs`, and `exciting collaborations` — [here's my Resume](https://drive.google.com/file/d/1wa_iFh7lWen3EsnULMlBJKHFmScACsaf/view?usp=drive_link).
 
 <br>
 
